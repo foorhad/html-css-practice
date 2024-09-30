@@ -1,0 +1,25 @@
+body{
+	
+	
+}
+
+
+.AA{
+
+ 
+     background:linear-gradient(#ffff0000,#00800000,black), url(../image/c.jpeg);
+	 height: 180px;
+	 background-repeat:no repeat;
+	 background-size: cover;
+
+	 
+	 
+
+}
+
+
+.AA  b{
+	color:	#BD33A4;
+	font-family:arial black;
+	font-size:5px;
+	}
